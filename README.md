@@ -1,2 +1,3 @@
 # bull-poc
-proof of concept for bull app
+
+proof of concept for bull mq
